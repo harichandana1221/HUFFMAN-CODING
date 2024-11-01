@@ -1,10 +1,10 @@
-# HUFFMAN-CODING
 ### Project Title: Huffman Coding Tree
 
 
 
 ### Authors
 *Name*: Harichandana Mukkamala
+
 *Contact*: 9405954825
 
 ### Description
@@ -28,7 +28,7 @@ To successfully run this project, ensure you have the following:
 1. *Download*: For quick access, open the provided Google Colab link (see “Executing Program”).
 2. *Local Setup*: If running locally, download or clone the repository:
    bash
-   git clone <insert-your-repo-link>
+   git clone <(https://github.com/harichandana1221/HUFFMAN-CODING/edit/main/README.md)>
    
 3. *File Preparation*: Verify that the input data (character-frequency pairs) is correctly formatted, as outlined in the instructions.
 
